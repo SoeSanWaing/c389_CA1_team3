@@ -1,4 +1,4 @@
-# People Counting Assistant (Twist 3: Distracted Pedestrian Detection) — Streamlit Edition
+# People Counting Assistant (Twist 3: Distracted Pedestrian Detection)
 
 A production-ready computer vision solution fine-tuned to detect, classify, and count directional pedestrian traffic and distracted mobile phone usage on campus walkways. Built with **Ultralytics YOLO26** and deployed as an interactive dashboard using **Streamlit**.
 
