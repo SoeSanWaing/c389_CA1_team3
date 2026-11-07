@@ -7,7 +7,7 @@ streamlit>=1.50
 ultralytics>=8.4.0
 # Ultralytics tries to auto-install this at first predict; pin it so the cloud runtime never has to.
 pi-heif
-opencv-python-headless>=4.10
+opencv-python-headless==4.10.0.84
 pillow>=10.0
 numpy>=1.26
 pandas>=2.0
